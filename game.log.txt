@@ -1,0 +1,16 @@
+Statistics for ruth: 
+Game Date & Time: 06/20/2023 22:00:54
+# of Games: 5
+# of Dice Rolls: 14
+# of Wins: 2
+# of Losses: 3
+% Wins: 40.00%
+
+Statistics for gary: 
+Game Date & Time: 06/21/2023 00:11:40
+# of Games: 5
+# of Dice Rolls: 12
+# of Wins: 2
+# of Losses: 3
+% Wins: 40.00%
+
